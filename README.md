@@ -3,6 +3,6 @@ Get actual Vapor Pressure Deficit
 
 
 Usage:
-# npm install
+# \npm install
 then
-# node app.js
+# \node app.js
