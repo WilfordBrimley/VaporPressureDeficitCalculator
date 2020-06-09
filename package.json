@@ -1,0 +1,22 @@
+{
+  "name": "vpdcalc",
+  "version": "1.0.0",
+  "description": "Calculate VPD",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilfordBrimley/VaporPressureDeficitCalculator.git"
+  },
+  "author": "Aphid#4690",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/WilfordBrimley/VaporPressureDeficitCalculator/issues"
+  },
+  "homepage": "https://github.com/WilfordBrimley/VaporPressureDeficitCalculator#readme",
+  "dependencies": {
+    "enquirer": "^2.3.5"
+  }
+}
